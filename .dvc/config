@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://delio19-dvcstore
